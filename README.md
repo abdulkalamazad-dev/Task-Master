@@ -1,16 +1,83 @@
-<<<<<<< HEAD
-# React + Vite
+Task-Master: A Modern Task Management Application
+Overview
+Task-Master is a comprehensive task management application designed to help users organize their daily tasks efficiently. With an intuitive interface and powerful features, this application enables users to create, prioritize, and track tasks all in one place.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Task Creation & Management: Easily create, edit, and delete tasks
 
-Currently, two official plugins are available:
+Priority Levels: Assign low, medium, or high priority to tasks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Status Tracking: Mark tasks as pending or completed
 
-## Expanding the ESLint configuration
+Due Date Management: Set and monitor deadlines for your tasks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Task-Master
->>>>>>> e0369604b2f4d73a2202d6070cf130ff16c172c7
+Filtering & Searching: Quickly find tasks with powerful search and filter options
+
+Responsive Design: Works seamlessly across desktop and mobile devices
+
+Dark/Light Mode: Choose your preferred theme for comfortable viewing
+
+Productivity Statistics: Track completion rates and task distribution
+
+User Profiles: Personalize your experience with custom user profiles
+
+Local Storage: Your tasks persist between sessions
+
+🛠️ Technologies Used
+React.js - UI component library with functional components and hooks
+
+React Router - For navigation between pages
+
+Context API - For state management across components
+
+Custom CSS - Handcrafted styling with CSS variables for theming
+
+Vite - Next generation frontend tooling for faster development
+
+GitHub Pages - For deployment and hosting
+
+🔧 Installation & Setup
+Clone the repository
+
+bash
+git clone https://github.com/abdulkalamazad-dev/Task-Master.git
+cd Task-Master
+Install dependencies
+
+bash
+npm install
+Run the development server
+
+bash
+npm run dev
+Build for production
+
+bash
+npm run build
+📂 Project Structure
+text
+Task-Master/
+├── src/
+│   ├── components/      # Reusable UI components
+│   │   ├── Layout/      # Layout components
+│   │   └── Tasks/       # Task-related components
+│   ├── context/         # Context API files
+│   ├── pages/           # Page components
+│   ├── styles/          # CSS files
+│   └── main.jsx         # Entry point
+├── index.html           # HTML template
+└── vite.config.js       # Vite configuration
+🌟 Use Cases
+Personal Task Management: Keep track of your daily to-dos
+
+Project Planning: Break down projects into manageable tasks
+
+Deadline Tracking: Never miss important deadlines
+
+Priority Management: Focus on what matters most
+
+Productivity Monitoring: Analyze your task completion patterns
+
+👨‍💻 Developer
+Designed and developed by Abdul Kalam Azad
+
