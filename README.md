@@ -51,16 +51,13 @@ npm run dev
 npm run build
 ````
 
-## Use Cases:-
-***Personal Task Management:*** Keep track of your daily to-dos
+## 🌟 Use Cases
 
-****Project Planning:**** Break down projects into manageable tasks
-
-***Deadline Tracking:*** Never miss important deadlines
-
-***Priority Management:*** Focus on what matters most
-
-***Productivity Monitoring:*** Analyze your task completion patterns
+- 🗓️ **Personal Task Management**: Keep track of your daily to-dos  
+- 🧩 **Project Planning**: Break down projects into manageable tasks  
+- ⏰ **Deadline Tracking**: Never miss important deadlines  
+- 🎯 **Priority Management**: Focus on what matters most  
+- 📊 **Productivity Monitoring**: Analyze your task completion patterns  
 
 ***Developer***
 -****Designed and developed by 👨‍💻Abdul Kalam Azad🌟****
