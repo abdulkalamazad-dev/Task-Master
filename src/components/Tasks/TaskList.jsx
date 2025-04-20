@@ -31,7 +31,7 @@ function TaskList() {
         <p className="empty-state-description">
           Add some tasks to get started or try adjusting your filters.
         </p>
-        <a href="/add" className="btn btn-primary">Add Your First Task</a>
+        <a href="#/add" className="btn btn-primary">Add Your First Task</a>
       </div>
     );
   }
