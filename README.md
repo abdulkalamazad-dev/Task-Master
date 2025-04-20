@@ -1,4 +1,4 @@
-# Task-Master: A Modern Task Management Application
+#  📝 Task-Master: A Modern Task Management Application
 
 ## Overview
 
