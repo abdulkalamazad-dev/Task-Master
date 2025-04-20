@@ -65,6 +65,6 @@ npm run build
 - 🎯 **Priority Management**: Focus on what matters most  
 - 📊 **Productivity Monitoring**: Analyze your task completion patterns  
 
-***Developer***
+🌟**Developer**
 -****Designed and developed by 👨‍💻Abdul Kalam Azad🌟****
 
