@@ -58,10 +58,10 @@ npm run build
 
 ***Deadline Tracking:*** Never miss important deadlines
 
-****Priority Management:*** Focus on what matters most
+***Priority Management:*** Focus on what matters most
 
-****Productivity Monitoring:*** Analyze your task completion patterns
+***Productivity Monitoring:*** Analyze your task completion patterns
 
 ***Developer***
--****Designed and developed by Abdul Kalam Azad****
+-****Designed and developed by 👨‍💻Abdul Kalam Azad🌟****
 
