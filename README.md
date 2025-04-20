@@ -34,31 +34,34 @@ Task-Master is a comprehensive task management application designed to help user
 git clone https://github.com/abdulkalamazad-dev/Task-Master.git
 cd Task-Master
 
+```
 
 ### 2. Install dependencies:
 ```bash
 npm install
-
+```
 
 ### 3.Run the development server:
 ```bash
 npm run dev
+````
 
 ### 4.Build for production:
 ```bash
 npm run build
+````
 
 ## Use Cases:-
-Personal Task Management: Keep track of your daily to-dos
+-*** Personal Task Management: Keep track of your daily to-dos
 
-Project Planning: Break down projects into manageable tasks
+-***Project Planning: Break down projects into manageable tasks
 
-Deadline Tracking: Never miss important deadlines
+- ***Deadline Tracking: Never miss important deadlines
 
-Priority Management: Focus on what matters most
+- ***Priority Management: Focus on what matters most
 
-Productivity Monitoring: Analyze your task completion patterns
+- ***Productivity Monitoring: Analyze your task completion patterns
 
-👨‍💻 Developer
-Designed and developed by Abdul Kalam Azad
+-*** Developer
+- ***Designed and developed by Abdul Kalam Azad
 
