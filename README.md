@@ -52,16 +52,16 @@ npm run build
 ````
 
 ## Use Cases:-
--*** Personal Task Management: Keep track of your daily to-dos
+***Personal Task Management:*** Keep track of your daily to-dos
 
--***Project Planning: Break down projects into manageable tasks
+****Project Planning:**** Break down projects into manageable tasks
 
-- ***Deadline Tracking: Never miss important deadlines
+***Deadline Tracking:*** Never miss important deadlines
 
-- ***Priority Management: Focus on what matters most
+****Priority Management:*** Focus on what matters most
 
-- ***Productivity Monitoring: Analyze your task completion patterns
+****Productivity Monitoring:*** Analyze your task completion patterns
 
--*** Developer
-- ***Designed and developed by Abdul Kalam Azad
+***Developer***
+-****Designed and developed by Abdul Kalam Azad****
 
