@@ -39,7 +39,6 @@ Task-Master is a comprehensive task management application designed to help user
 ```bash
 git clone https://github.com/abdulkalamazad-dev/Task-Master.git
 cd Task-Master
-
 ```
 
 ### 2. Install dependencies:
